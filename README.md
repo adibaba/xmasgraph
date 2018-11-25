@@ -1,6 +1,11 @@
 # xmasgraph
 
-A graph template, which an be used for creating advent calendars or teaching/learning approaches in November/December.
+xmasgraph is a graph template, which an be used for creating advent calendars or teaching/learning approaches in November/December.
+
+The graph consists of 24 vertices (nodes/circles/bubbles/stars) at fixed positions.
+The vertices can be connected layer by layer.
+
+The templates listed below are designed for DIY handicraft projects.
 
 Teaching ideas:
 
@@ -12,13 +17,23 @@ Advent calendar ideas:
 - Print it, laminate it, put acrylic paints on the nodes. Let others rub it away.
 - Get some LEDs, a single-board computer and let it shine!
 
-## PDF Download
+The works are licensed under a Creative Commons Attribution-NonCommercial 4.0 International License ([CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/)).
 
-&nbsp; | US letter | DIN A4
---- | ------------ | -------------
-**Template 1** | [Template 1 - US letter](../../raw/master/templates/3.1.us-letter.pdf) | [Template 1 - DIN A4](../../raw/master/templates/3.1.din-a4.pdf)
-**Template 2** | [Template 2 - US letter](../../raw/master/templates/3.2.us-letter.pdf) | [Template 2 - DIN A4](../../raw/master/templates/3.2.din-a4.pdf)
-**Example** | [Example US letter](../../raw/master/examples/3.breadth-first-santa.us-letter.pdf) | [Example - DIN A4](../../raw/master/examples/3.breadth-first-santa.din-a4.pdf)
+## Download
+
+### #xmasgraph templates
+
+&nbsp; | US letter / PDF | DIN A4 / PDF | Inkscape SVG | yEd graphml
+------ | --------------- | ------------ | ------------ | -----------
+**Template 1** | [US PDF](../../raw/master/templates/3.1.us-letter.pdf) | [A4 PDF](../../raw/master/templates/3.1.din-a4.pdf) | [SVG](../../raw/master/templates/3.1.inkscape.svg) | [graphml](../../raw/master/development/3.1.yed.graphml)
+**Template 2** | [US PDF](../../raw/master/templates/3.2.us-letter.pdf) | [A4 PDF](../../raw/master/templates/3.2.din-a4.pdf) | [SVG](../../raw/master/templates/3.2.inkscape.svg) | [graphml](../../raw/master/development/3.2.yed.graphml)
+
+### #BreadthFirstSanta (BFS)
+
+&nbsp; | US letter / PDF | DIN A4 / PDF
+------ | --------------- | -------------
+**Version 1** | [US PDF](../../raw/master/examples/3.breadth-first-santa.us-letter.pdf) | [A4 PDF](../../raw/master/examples/3.breadth-first-santa.din-a4.pdf)
+**Version 2** | [US PDF](../../raw/master/examples/3.breadth-first-santa.2.us-letter.pdf) | [A4 PDF](../../raw/master/examples/3.breadth-first-santa.2.din-a4.pdf)
 
 ## Preview
 
@@ -30,6 +45,8 @@ Advent calendar ideas:
 
 ![Template 2](templates/3.2.png)
 
-### Example
+### Example: Breadth First Santa (BFS)
 
 ![Template 2](examples/3.breadth-first-santa.png)
+
+![Template 2](examples/3.breadth-first-santa.2.png)
