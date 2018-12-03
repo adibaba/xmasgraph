@@ -7,6 +7,8 @@ The vertices can be connected layer by layer.
 
 The templates listed below are designed for DIY handicraft projects.
 
+A DIY example video: https://www.youtube.com/watch?v=BzNHzFYFBPg
+
 Teaching ideas:
 
 - Perform a BFS or another algorithm.
